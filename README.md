@@ -1,2 +1,0 @@
-# agate
-AGATE Seminar Website
